@@ -1,3 +1,5 @@
 http://thecodeplayer.com/walkthrough/cool-ascii-animation-using-an-image-sprite-canvas-and-javascript
 
 http://thecodeplayer.com/walkthrough/make-a-particle-system-in-html5-canvas
+
+http://jlongster.com/Making-Sprite-based-Games-with-Canvas
